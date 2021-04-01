@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="C:/Users/DELL/Downloads/jar_files/hamcrest-all-1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-15.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/lambdaj-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/objenesis-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
